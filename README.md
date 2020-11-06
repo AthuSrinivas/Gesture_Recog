@@ -1,4 +1,4 @@
-# Hand_Gesture_Rec
+# Hand Gesture Recognition
 This project is for running Hand_Gesture_Recognition for mobile devices for running basic  or here media operations using Hand gestures.
 
 Works on Android 9+
